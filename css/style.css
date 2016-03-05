@@ -1,0 +1,23 @@
+html, body{padding: 0 auto;
+           margin: 0 auto;
+           height: 100%;
+           width: 100%;}
+           
+           
+      header{
+           height: 25%;
+           width: 100%;
+           text-align: center;
+           background-color: red;
+           color: white;
+           
+      }
+      
+      
+      
+      box{ height: 3rem;
+           width; 3rem;
+           border:box;
+           display: inline-block;
+           b
+      }
